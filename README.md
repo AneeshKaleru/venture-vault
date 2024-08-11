@@ -1,4 +1,4 @@
-# 🏦 Venture Vault
+# 🏦 Venture Vault: Empowering startup investments
 
 Introducing, "VentureVault", a dynamic online ecosystem that empowers investors to discover, assess, and engage with startups for informed and successful investment decisions. In an era where data drives decisions, Venture Vault emerges as a comprehensive platform, providing investors with in-depth insights into the performance of various startups.
 
